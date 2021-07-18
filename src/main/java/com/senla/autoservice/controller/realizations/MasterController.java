@@ -11,6 +11,9 @@ public class MasterController implements IMasterController {
     @InjectByClassType
     private IMasterService iMasterService;
 
+    public MasterController() {
+    }
+
     @Override
     public void addMaster(String name, String pos, int salary, int free) {
         iMasterService.addMaster(name, pos, salary, free);

@@ -21,6 +21,7 @@ public class MasterDao implements IMasterDao {
         }
     }
 
+
     @Override
     public void addMaster(Master master) {
         masters.add(master);

@@ -16,6 +16,9 @@ public class AdminDao implements IAdminDao {
 
     private ArrayList<Order> orders = new ArrayList<Order>();
 
+    public AdminDao() {
+    }
+
     @Override
     public void addOrder(Order order) {
         orders.add(order);

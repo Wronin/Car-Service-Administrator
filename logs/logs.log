@@ -36,3 +36,42 @@
 2021-07-18 17:39:39,737 ERROR c.s.p.a.v.MenuController [main] null 
 2021-07-18 17:39:39,737 INFO c.s.p.a.v.MenuController [main] printed menu 
 2021-07-18 17:47:10,331 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 18:02:34,018 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:19:42,727 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:19:48,547 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:19:48,547 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:19:50,100 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:19:55,889 ERROR c.s.a.v.MenuController [main] Cannot invoke "com.senla.autoservice.service.IMasterService.addMaster(String, String, int, int)" because "this.iMasterService" is null 
+2021-07-18 19:19:55,890 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:19:57,797 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-18 19:19:57,797 ERROR c.s.a.v.MenuController [main] Cannot invoke "com.senla.autoservice.service.IMasterService.showMasters()" because "this.iMasterService" is null 
+2021-07-18 19:19:57,797 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:21:10,974 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:21:41,309 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:21:44,790 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:21:44,791 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:21:45,446 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:21:49,020 ERROR c.s.a.v.MenuController [main] Cannot invoke "com.senla.autoservice.service.IMasterService.addMaster(String, String, int, int)" because "this.iMasterService" is null 
+2021-07-18 19:21:49,020 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:22:56,132 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:23:38,040 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:23:44,979 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:23:44,979 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:23:46,712 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:24:29,016 ERROR c.s.a.v.MenuController [main] Cannot invoke "com.senla.autoservice.service.IMasterService.addMaster(String, String, int, int)" because "this.iMasterService" is null 
+2021-07-18 19:24:29,016 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:54:46,016 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:54:49,327 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:54:49,327 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 19:54:50,378 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 19:56:05,865 ERROR c.s.a.v.MenuController [main] Cannot invoke "com.senla.autoservice.service.IMasterService.addMaster(String, String, int, int)" because "this.iMasterService" is null 
+2021-07-18 19:56:05,867 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 20:08:07,662 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 20:08:54,096 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 20:08:54,097 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 20:08:55,574 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-18 20:09:26,505 INFO c.s.a.s.r.MasterService [main] added master Master{position='asd', salary=123, free=1} 
+2021-07-18 20:09:30,555 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-18 20:09:32,602 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-18 20:09:32,602 INFO c.s.a.s.r.MasterService [main] output of all masters 
+2021-07-18 20:09:32,603 INFO c.s.a.v.MenuController [main] printed menu 

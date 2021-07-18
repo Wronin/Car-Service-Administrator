@@ -18,7 +18,6 @@ public class ObjectFactory {
         }
     }
 
-//    @SneakyThrows
     public <T> T createObject(Class<T> implClass) throws ReflectiveOperationException {
         T t = create(implClass);
         configure(t);

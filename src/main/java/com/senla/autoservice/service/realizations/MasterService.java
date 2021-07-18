@@ -20,6 +20,9 @@ public class MasterService implements IMasterService {
     @InjectByClassType
     private IMasterDao iMasterDao;
 
+    public MasterService() {
+    }
+
     @Override
     public void addMaster(String name, String position, int salary, int free) {
         try {
