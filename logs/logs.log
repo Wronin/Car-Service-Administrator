@@ -1,0 +1,38 @@
+2021-07-18 16:01:57,331 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:04:17,134 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:04:35,418 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 16:04:35,419 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:04:37,709 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 16:04:41,991 ERROR c.s.p.a.v.MenuController [main] Cannot invoke "IMasterService.addMaster(String, String, int, int)" because "this.iMasterService" is null
+2021-07-18 16:04:41,992 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:27:52,142 INFO c.s.p.a.v.MenuController [main] User input: 4 
+2021-07-18 16:27:52,180 ERROR c.s.p.a.v.MenuController [main] Cannot invoke "IMasterService.showMasters()" because "this.iMasterService" is null
+2021-07-18 16:27:52,180 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:28:17,722 INFO c.s.p.a.v.MenuController [main] User input: 0 
+2021-07-18 16:32:35,869 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:32:56,679 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:32:58,799 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 16:32:58,799 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:32:59,837 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 16:33:03,351 ERROR c.s.p.a.v.MenuController [main] Cannot invoke "IMasterService.addMaster(String, String, int, int)" because "this.iMasterService" is null
+2021-07-18 16:33:03,352 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:33:04,937 INFO c.s.p.a.v.MenuController [main] User input: 4 
+2021-07-18 16:33:04,937 ERROR c.s.p.a.v.MenuController [main] Cannot invoke "IMasterService.showMasters()" because "this.iMasterService" is null
+2021-07-18 16:33:04,937 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:36:26,519 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:36:30,737 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 16:36:30,738 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 16:36:33,363 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 16:37:13,042 ERROR c.s.p.a.v.MenuController [main] Cannot invoke "IMasterService.addMaster(String, String, int, int)" because "this.iMasterService" is null
+2021-07-18 16:37:13,043 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 17:13:09,280 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 17:39:28,769 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 17:39:32,823 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 17:39:32,823 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 17:39:34,166 INFO c.s.p.a.v.MenuController [main] User input: 1 
+2021-07-18 17:39:38,874 ERROR c.s.p.a.v.MenuController [main] null 
+2021-07-18 17:39:38,874 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 17:39:39,737 INFO c.s.p.a.v.MenuController [main] User input: 4 
+2021-07-18 17:39:39,737 ERROR c.s.p.a.v.MenuController [main] null 
+2021-07-18 17:39:39,737 INFO c.s.p.a.v.MenuController [main] printed menu 
+2021-07-18 17:47:10,331 INFO c.s.a.v.MenuController [main] printed menu 
