@@ -4,6 +4,7 @@ import com.senla.autoservice.dao.IAdminDao;
 import com.senla.autoservice.composition.annotations.ConfigProperty;
 import com.senla.autoservice.composition.annotations.InjectByClassType;
 import com.senla.autoservice.composition.annotations.Singleton;
+import com.senla.autoservice.dao.realizations.AdminDao;
 import com.senla.autoservice.model.*;
 import com.senla.autoservice.model.*;
 import com.senla.autoservice.service.IAdminService;

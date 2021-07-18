@@ -15,7 +15,6 @@ public class Main {
 
         ApplicationContext applicationContext = Application.run("com.senla.autoservice", new HashMap<>());
 
-
         Builder builder = new Builder();
         builder.buildMenu(applicationContext);
         Navigator navigator = new Navigator(builder.getRootMenu());
