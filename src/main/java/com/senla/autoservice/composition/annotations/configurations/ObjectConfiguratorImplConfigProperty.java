@@ -13,8 +13,8 @@ public class ObjectConfiguratorImplConfigProperty implements ObjectConfigurator 
         for (Field field : implClass.getDeclaredFields()) {
             ConfigProperty annotation = field.getAnnotation(ConfigProperty.class);
             if (annotation != null) {
-                Object object = Class.forName(annotation.PropertyName()).newInstance();
                 field.setAccessible(true);
+                Object object = Class.forName(annotation.PropertyName()).newInstance();
                 field.set(t, object);
             }
         }

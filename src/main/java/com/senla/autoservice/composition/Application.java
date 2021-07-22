@@ -1,7 +1,10 @@
 package com.senla.autoservice.composition;
 
+import com.senla.autoservice.controller.IAdminController;
+import com.senla.autoservice.dao.IAdminDao;
 import com.senla.autoservice.dao.IMasterDao;
 import com.senla.autoservice.controller.IMasterController;
+import com.senla.autoservice.service.IAdminService;
 import com.senla.autoservice.service.IMasterService;
 
 import java.util.Map;
@@ -18,9 +21,9 @@ public class Application {
         context.getObject(IMasterController.class);
         context.getObject(IMasterDao.class);
 
-//        context.getObject(IAdminService.class);
-//        context.getObject(IAdminController.class);
-//        context.getObject(IAdminDao.class);
+        context.getObject(IAdminService.class);
+        context.getObject(IAdminController.class);
+        context.getObject(IAdminDao.class);
 
 //        context.getObject(IOrganizationService.class);
 //        context.getObject(IOrganizationController.class);

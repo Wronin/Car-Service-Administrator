@@ -75,3 +75,59 @@
 2021-07-18 20:09:32,602 INFO c.s.a.v.MenuController [main] User input: 4 
 2021-07-18 20:09:32,602 INFO c.s.a.s.r.MasterService [main] output of all masters 
 2021-07-18 20:09:32,603 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:34:56,191 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:35:44,455 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:40:40,052 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:40:47,138 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:40:56,087 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:41:16,321 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:41:29,771 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:41:36,308 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-22 22:41:36,309 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:41:39,117 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-22 22:41:43,315 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:41:43,315 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:41:49,254 INFO c.s.a.v.MenuController [main] User input: 5 
+2021-07-22 22:41:49,254 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:41:49,255 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:41:53,606 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-22 22:41:53,607 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:41:53,608 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:42:07,941 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:42:19,760 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-22 22:42:19,760 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:42:21,268 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-22 22:42:23,351 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:42:23,352 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:42:25,342 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-22 22:42:25,343 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:42:25,343 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:43:14,605 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:43:22,642 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-22 22:43:22,642 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:43:26,973 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-22 22:43:28,365 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:43:28,366 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:43:30,061 INFO c.s.a.v.MenuController [main] User input: 5 
+2021-07-22 22:43:30,062 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:43:30,063 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:44:06,739 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:44:12,566 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-22 22:44:12,567 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:44:13,908 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-22 22:44:56,133 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:44:56,134 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:45:06,403 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-22 22:45:20,559 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:45:20,559 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:45:58,153 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:46:03,617 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-22 22:46:03,618 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:46:06,029 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-22 22:46:22,333 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-22 22:46:22,334 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:52:21,543 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:52:53,502 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:55:21,602 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:55:37,392 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-22 22:56:56,429 INFO c.s.a.v.MenuController [main] printed menu 
