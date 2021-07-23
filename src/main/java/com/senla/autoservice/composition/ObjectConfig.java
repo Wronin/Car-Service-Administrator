@@ -13,7 +13,7 @@ public class ObjectConfig implements IConfig {
     public ObjectConfig(String packageToScan, Map<Class, Class> intrfceToImplClass) {
         this.intrfceToImplClass = intrfceToImplClass;
         this.scanner = new Reflections("com.senla.autoservice");
-    }
+    } 
 
     @Override
     public <T> Class<? extends T> getImplClass(Class<T> intrfce) {
