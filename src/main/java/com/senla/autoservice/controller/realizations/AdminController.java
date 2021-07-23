@@ -18,6 +18,11 @@ public class AdminController implements IAdminController {
     @InjectByClassType
     private IAdminService adminService;
 
+
+
+    public AdminController() {
+    }
+
     @Override
     public void addOrder(Client client, Date time, Date date, Date newDate, State state, Master master, int price) {
         adminService.addOrder(client, time, date, newDate, state, master, price);

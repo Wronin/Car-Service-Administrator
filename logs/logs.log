@@ -131,3 +131,157 @@
 2021-07-22 22:55:21,602 INFO c.s.a.v.MenuController [main] printed menu 
 2021-07-22 22:55:37,392 INFO c.s.a.v.MenuController [main] printed menu 
 2021-07-22 22:56:56,429 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 18:57:43,607 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 18:57:59,636 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:03:25,777 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:03:31,334 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:03:31,334 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:03:32,823 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:03:34,393 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:03:34,394 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:04:16,146 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:04:17,941 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:04:17,942 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:04:19,231 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:04:21,808 INFO c.s.a.s.r.MasterService [main] added master Master{position='asd', salary=123, free=1} 
+2021-07-23 19:04:21,808 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:04:23,402 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-23 19:04:23,403 INFO c.s.a.s.r.MasterService [main] output of all masters 
+2021-07-23 19:04:23,410 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:06:28,241 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:08:51,429 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:08:59,967 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:08:59,968 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:09:01,660 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:09:12,711 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:09:12,712 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:10:20,444 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:10:23,730 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:10:23,731 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:10:25,183 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:10:53,120 INFO c.s.a.s.r.MasterService [main] added master Master{position='asd', salary=123, free=1} 
+2021-07-23 19:10:53,121 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:11:10,241 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:11:14,043 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:11:14,044 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:11:15,410 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:12:03,900 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:12:03,902 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:12:17,720 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-23 19:12:17,721 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:12:17,722 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:12:43,574 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:12:47,920 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:12:47,922 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:12:49,025 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:13:21,934 INFO c.s.a.s.r.MasterService [main] added master Master{position='asd', salary=123, free=1} 
+2021-07-23 19:13:21,935 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:13:25,009 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-23 19:13:25,010 INFO c.s.a.s.r.MasterService [main] output of all masters 
+2021-07-23 19:13:25,105 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:13:43,708 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:13:46,718 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:13:46,720 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:13:59,807 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:15:55,239 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:15:59,984 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:16:34,900 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:16:48,814 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:16:59,702 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:17:08,108 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:18:03,683 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:18:03,686 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:18:15,563 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:18:19,482 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:18:21,465 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:18:38,965 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:19:28,465 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:19:28,467 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:19:34,404 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:19:36,417 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:19:36,417 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:19:40,405 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:19:41,722 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:19:41,723 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:21:21,238 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:21:22,493 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:21:22,493 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:21:23,480 INFO c.s.a.v.MenuController [main] User input: 10 
+2021-07-23 19:21:23,481 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:21:58,236 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:22:04,392 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:22:18,745 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:22:26,994 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:23:48,962 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:23:48,964 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:25:14,581 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:25:22,661 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:25:23,836 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:25:31,804 INFO c.s.a.v.MenuController [main] User input: 5 
+2021-07-23 19:25:46,652 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:25:46,653 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:26:35,869 INFO c.s.a.v.MenuController [main] User input: 5 
+2021-07-23 19:26:56,284 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:26:56,284 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:28:59,356 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:29:04,569 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:29:07,100 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:29:12,867 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:30:22,040 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:30:22,041 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:30:37,398 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:32:36,771 ERROR c.s.a.v.MenuController [main] Index -1 out of bounds for length 0 
+2021-07-23 19:32:36,771 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:32:48,787 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:32:54,184 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:32:54,997 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:33:00,068 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:33:13,168 ERROR c.s.a.s.r.MasterService [main] Cannot invoke "java.util.Date.getTime()" because "date" is null 
+2021-07-23 19:33:13,169 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:33:18,279 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-23 19:33:26,875 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:33:30,873 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:33:41,042 ERROR c.s.a.s.r.MasterService [main] Cannot invoke "java.util.Date.getTime()" because "date" is null 
+2021-07-23 19:33:41,043 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:33:54,387 INFO c.s.a.v.MenuController [main] User input: 5 
+2021-07-23 19:33:56,687 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:34:38,532 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:34:41,070 INFO c.s.a.v.MenuController [main] User input: 2 
+2021-07-23 19:34:41,071 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:34:42,505 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:35:10,240 ERROR c.s.a.s.r.MasterService [main] Cannot invoke "java.util.Date.getTime()" because "date" is null 
+2021-07-23 19:35:10,241 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:37:51,925 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:37:55,686 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:37:55,686 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:37:57,180 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:38:10,577 INFO c.s.a.s.r.MasterService [main] added master Master{position='asd', salary=123, free=1} 
+2021-07-23 19:38:10,578 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:38:26,158 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:38:28,303 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:38:28,303 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:38:34,828 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:38:41,511 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:38:43,504 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:38:43,505 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:38:44,570 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:38:49,691 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:39:02,294 INFO c.s.a.v.MenuController [main] User input: 4 
+2021-07-23 19:39:02,294 INFO c.s.a.s.r.MasterService [main] output of all masters 
+2021-07-23 19:39:02,295 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:39:17,059 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:39:27,616 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:39:27,616 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:39:28,541 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:39:37,946 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:40:26,418 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:40:27,809 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:40:27,810 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:40:28,428 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:40:40,138 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:40:54,267 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:40:55,318 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:40:55,319 INFO c.s.a.v.MenuController [main] printed menu 
+2021-07-23 19:40:56,417 INFO c.s.a.v.MenuController [main] User input: 1 
+2021-07-23 19:41:06,034 INFO c.s.a.s.r.MasterService [main] added master Master{position='qwe', salary=123, free=1} 
+2021-07-23 19:41:06,037 INFO c.s.a.v.MenuController [main] printed menu 

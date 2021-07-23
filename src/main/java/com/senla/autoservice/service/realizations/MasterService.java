@@ -1,5 +1,6 @@
 package com.senla.autoservice.service.realizations;
 
+import com.senla.autoservice.composition.annotations.ConfigProperty;
 import com.senla.autoservice.dao.IMasterDao;
 import com.senla.autoservice.composition.annotations.InjectByClassType;
 import com.senla.autoservice.composition.annotations.Singleton;
@@ -17,6 +18,9 @@ public class MasterService implements IMasterService {
 
     private static final Logger logger = LogManager.getLogger(MasterService.class);
 
+    @ConfigProperty(PropertyName = "MasterService.canAddNewMaster", classType = Integer.class)
+    Integer canAddNewMaster;
+
     @InjectByClassType
     private IMasterDao iMasterDao;
 
@@ -26,10 +30,12 @@ public class MasterService implements IMasterService {
     @Override
     public void addMaster(String name, String position, int salary, int free) {
         try {
-            Master master = new Master(name, position, salary, free);
-            Master master1 = new Master(name, "lastName", 88888888, "address", "position", salary, free);
-            iMasterDao.addMaster(master1);
-            logger.info("added master " + master.toString());
+            if (canAddNewMaster == 1) {
+                Master master = new Master(name, position, salary, free);
+                Master master1 = new Master(name, "lastName", 88888888, "address", "position", salary, free);
+                iMasterDao.addMaster(master1);
+                logger.info("added master " + master.toString());
+            }
         } catch (Exception e){
             logger.error(e.getMessage());
         }

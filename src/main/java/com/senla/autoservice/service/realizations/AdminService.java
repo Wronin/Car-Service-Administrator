@@ -18,6 +18,9 @@ public class AdminService implements IAdminService {
 
     private static final Logger logger = LogManager.getLogger(MasterService.class);
 
+    public AdminService() {
+    }
+
     @InjectByClassType
     private IAdminDao iAdminDao;
 

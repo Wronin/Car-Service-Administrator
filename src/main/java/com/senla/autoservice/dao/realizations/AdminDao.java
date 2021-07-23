@@ -39,6 +39,8 @@ public class AdminDao implements IAdminDao {
 
     @Override
     public Order getLastOrder() {
+        if (orders.size() == 0)
+            return new Order();
         return orders.get(orders.size() - 1);
     }
 

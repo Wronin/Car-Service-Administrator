@@ -10,8 +10,6 @@ public class MenuController {
     private Builder builder;
     private Navigator navigator;
 
-    @ConfigProperty(PropertyName = "Main.testProperty", classType = int.class)
-    private int testAno;
 
     private static final Logger logger = LogManager.getLogger(MenuController.class.getName());
 
@@ -23,7 +21,6 @@ public class MenuController {
     public void run() {
         int input = 0;
 
-        System.out.println(testAno);
         while (true) {
             navigator.printMenu();
             logger.info("printed menu");

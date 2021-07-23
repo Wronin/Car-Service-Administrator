@@ -7,7 +7,6 @@ import com.senla.autoservice.view.IAction;
 import java.util.Scanner;
 
 public class AddMaster implements IAction {
-
     private final MasterController masterController;
 
     public AddMaster(ApplicationContext applicationContext) throws ReflectiveOperationException {
